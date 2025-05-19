@@ -76,8 +76,8 @@ By promoting peer-to-peer exchange, StudySwap encourages collective learning, re
 
    The application will be available at `http://localhost:3000`.
 
-## 📦 Deployment
+## 👨‍💻 Author
 
-To deploy the application, consider using platforms like [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/). Ensure that all environment variables and configurations are appropriately set for the production environment.
-
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
 
