@@ -1,5 +1,5 @@
 
-# StudySwap – Peer Assignment Collaboration System
+# 📚StudySwap – Peer Assignment Collaboration System
 
 **StudySwap** is a collaborative platform designed to facilitate peer-to-peer assignment sharing and collaboration among students. It enables users to upload, access, and manage study materials efficiently, promoting a community-driven learning environment.
 
